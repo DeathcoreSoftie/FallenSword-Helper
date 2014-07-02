@@ -14855,9 +14855,7 @@ var items=0;
 				html += "</ul>";
 			}
 		html += "<h3>FSH developer quick links</h3>";
-		html += "<span class=a-reply target_player=TangTop style='cursor:pointer; text-decoration:underline;'>PM</span> <a href=index.php?cmd=profile&player_id=1346893>TangTop</a></br>";
-		html += "<span class=a-reply target_player=jesiegel style='cursor:pointer; text-decoration:underline;'>PM</span> <a href=index.php?cmd=profile&player_id=1570854>Jesiegel</a></br>";
-		html += "<span class=a-reply target_player=yuuzhan style='cursor:pointer; text-decoration:underline;'>PM</span> <a href=index.php?cmd=profile&player_id=1599987>yuuzhan</a></br>";
+		html += "<span class=a-reply target_player=beLIEve style='cursor:pointer; text-decoration:underline;'>PM</span> <a href=index.php?cmd=profile&player_id=3933930>beLIEve</a></br>";
 		html += "</div>";
 		html += "</div>";
 		$("#helperMenu").append(html);
