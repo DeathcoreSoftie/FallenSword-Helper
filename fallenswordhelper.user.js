@@ -14031,7 +14031,7 @@ var items=0;
 		result += '<input type="hidden" value="dochat" name="subcmd"/>';
 		result += '<input type="hidden" value="' + chatType.value + '" name="chat_type">';
 		result += '<input type="hidden" value="' + chatConfirm.value + '" name="xc"/>';
-		result += '<textarea align="center" cols="80" rows="2" name="msg" id="Helper:ChatTextArea"></textarea>';
+		result += '<textarea align="center" cols="70" rows="2" name="msg" id="Helper:ChatTextArea"></textarea>';
 		result += '</td><td>';
 		result += '<input class="custominput" type="submit" value="Send" name="submit"/>';
 		result += '</td><tr><td>';
