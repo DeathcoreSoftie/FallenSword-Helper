@@ -1,0 +1,18 @@
+Windows 7/8
+
+To install this FSH on Windows, visit https://github.com/DeathcoreSoftie/FallenSword-Helper and click the button on the right side of the screen that says "Download Zip". Once the zip file is downloaded, extract it to ".../mozilla/firefox/9shb6xj3.default/gm_scripts/FallenSwordHelper/". You might have to do some looking around because I don't know the whole directory you need to go to in windows. I think it might be under C://program files or something like that. >.< Sorry, I haven't been on Windows in years. Once it is extracted, a dialog box might pop up asking what you want to do with the duplicates. Replace the file with the newest one and refresh the page on Fallensword. Congratulations! You now have the newest version! 
+
+Linux:
+
+You will need git installed for this to work.
+
+*buntu:
+
+sudo apt-get install git
+
+Arch Linux/Manjaro/etc.
+
+yaourt -S git
+
+Once git is installed type in "sudo mkdir ~/Downloads/FSH" to make a FSH folder in your downloads, then type in "cd ~/Downloads/FSH" then "sudo git clone https://github.com/DeathcoreSoftie/FallenSword-Helper.git"
+
