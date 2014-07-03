@@ -6,6 +6,6 @@ Welcome to the FSH Git repository! This branch is currently ran by one person in
 Fixed Chat and Edit Bio going in to guild chat<br>
 Changes pm developers under the helper menu
 
-Known Issues:
+Known Issues:<br>
 Script doesn't automatically update<br>
 Buff description on mouseover<br>
