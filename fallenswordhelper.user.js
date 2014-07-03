@@ -14854,7 +14854,7 @@ var items=0;
 				}
 				html += "</ul>";
 			}
-		html += "<h3>FSH developer quick links</h3>";
+		html += "<h3>Contact Developers</h3>";
 		html += "<span class=a-reply target_player=beLIEve style='cursor:pointer; text-decoration:underline;'>PM</span> <a href=index.php?cmd=profile&player_id=3933930>beLIEve</a></br>";
 		html += "</div>";
 		html += "</div>";
